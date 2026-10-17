@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://ajjuahmad.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ajjuahmad.github.io-1D6B58?style=flat-square&labelColor=26312D"></a>
-  <a href="https://www.linkedin.com/in/ajaz-ahmad-a00805425/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ejaz%20Ahemad-1D6B58?style=flat-square&labelColor=26312D&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ejaz-ahemad-a00805425/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ejaz%20Ahemad-1D6B58?style=flat-square&labelColor=26312D&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ajjuahmad4321@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajjuahmad4321%40gmail.com-1D6B58?style=flat-square&labelColor=26312D&logo=gmail&logoColor=white"></a>
   <img alt="Availability" src="https://img.shields.io/badge/Availability-Remote%20work%20only-1D6B58?style=flat-square&labelColor=26312D">
 </p>
@@ -73,4 +73,4 @@ Database track: Oracle ERP, Oracle Developer OCM, Oracle DBA, Database Managemen
 
 ## Get in touch
 
-Available for **remote work only**. Write to [ajjuahmad4321@gmail.com](mailto:ajjuahmad4321@gmail.com), message me on [LinkedIn](https://www.linkedin.com/in/ajaz-ahmad-a00805425/), or see the full [portfolio](https://ajjuahmad.github.io).
+Available for **remote work only**. Write to [ajjuahmad4321@gmail.com](mailto:ajjuahmad4321@gmail.com), message me on [LinkedIn](https://www.linkedin.com/in/ejaz-ahemad-a00805425/), or see the full [portfolio](https://ajjuahmad.github.io).
