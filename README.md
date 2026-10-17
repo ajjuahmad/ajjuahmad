@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://ajjuahmad.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ajjuahmad.github.io-1D6B58?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/ajaz-ahmad-a00805425/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ejaz%20Ahemad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ajjuahmad4321@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajjuahmad4321%40gmail.com-C2410C?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img alt="Availability" src="https://img.shields.io/badge/Open%20to-remote%20work-2EA043?style=for-the-badge">
+  <a href="https://ajjuahmad.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ajjuahmad.github.io-1D6B58?style=flat-square&labelColor=26312D"></a>
+  <a href="https://www.linkedin.com/in/ajaz-ahmad-a00805425/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ejaz%20Ahemad-1D6B58?style=flat-square&labelColor=26312D&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ajjuahmad4321@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajjuahmad4321%40gmail.com-1D6B58?style=flat-square&labelColor=26312D&logo=gmail&logoColor=white"></a>
+  <img alt="Availability" src="https://img.shields.io/badge/Availability-Remote%20work%20only-1D6B58?style=flat-square&labelColor=26312D">
 </p>
 
 Hi, I'm Ejaz. I spent 14 years in software quality assurance, testing and signing off releases, and I now work remotely on AI data, language model evaluation and search quality. I live in Malegaon, Maharashtra.
