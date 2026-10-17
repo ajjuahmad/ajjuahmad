@@ -36,6 +36,17 @@ Hi, I'm Ejaz. I spent 14 years in software quality assurance, testing and signin
 - Text and Speech Transcription / Translation
 - Dubbing, Lip syncing
 
+## Sample projects
+
+Small browser projects that run without installing anything, built with AI assistance.
+
+| Project | What it is | Demo | Code |
+| --- | --- | --- | --- |
+| **VLSM Planner** | Splits one IPv4 network into right-sized subnets for the hosts each department needs | [Open](https://ajjuahmad.github.io/vlsm-planner/) | [Repo](https://github.com/ajjuahmad/vlsm-planner) |
+| **Packet Trail** | Ping and traceroute simulator that shows how TTL works, hop by hop | [Open](https://ajjuahmad.github.io/packet-trail/) | [Repo](https://github.com/ajjuahmad/packet-trail) |
+| **Bug Hunt** | QA game: spot the failing test rows before the timer ends | [Play](https://ajjuahmad.github.io/bug-hunt/) | [Repo](https://github.com/ajjuahmad/bug-hunt) |
+| **Port Match** | Memory game: match each protocol with its default port | [Play](https://ajjuahmad.github.io/port-match/) | [Repo](https://github.com/ajjuahmad/port-match) |
+
 ## Education
 
 **Bachelor of Engineering, Computer Engineering** (Second Class)
