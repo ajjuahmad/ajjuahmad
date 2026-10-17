@@ -46,6 +46,8 @@ Small browser projects that run without installing anything, built with AI assis
 | **Packet Trail** | Ping and traceroute simulator that shows how TTL works, hop by hop | [Open](https://ajjuahmad.github.io/packet-trail/) | [Repo](https://github.com/ajjuahmad/packet-trail) |
 | **Bug Hunt** | QA game: spot the failing test rows before the timer ends | [Play](https://ajjuahmad.github.io/bug-hunt/) | [Repo](https://github.com/ajjuahmad/bug-hunt) |
 | **Port Match** | Memory game: match each protocol with its default port | [Play](https://ajjuahmad.github.io/port-match/) | [Repo](https://github.com/ajjuahmad/port-match) |
+| **Relic Run** | Multiplayer co-op dungeon adventure: join with a room code, collect relics, stun guards, escape together | [Play](https://ajjuahmad.github.io/relic-run/) | [Repo](https://github.com/ajjuahmad/relic-run) |
+| **Gold Rush** | Multiplayer coin arena: bank coins at your base and dash to steal from rivals | [Play](https://ajjuahmad.github.io/gold-rush/) | [Repo](https://github.com/ajjuahmad/gold-rush) |
 
 ## Education
 
